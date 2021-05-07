@@ -9,5 +9,11 @@ azureadconnector-errorcheckerwg runs after azureadconnectorwg.ps1. This parses t
 
 get-dirsyncevents.ps1 runs every thirty minutes capturing events that might be of concern from the last thirty minutes of the AD Sync log. (Update the various send-mailmessage parameters to suit your environment). There are a few hash definistions here so you can learn more about using PowerShell to read event logs. You have find you need to adjust the hash to suit the current scenario.
 
+
+Automate ADFS and AAD Connect Alerts and Reports
+https://youtu.be/5Fz30jBGbus
+
+
+ShotokuTech AAD Connect Playlist
 https://www.youtube.com/playlist?list=PLVPBipeObwMN-OFl_fk95Unow4r-PnaN5
 ![ShotokuTech AAD Connect Playlist](https://github.com/ShotokuTech/AAD_Connect_Events_Errors/blob/main/AAD%20Connect%20Playlist.jpg)
